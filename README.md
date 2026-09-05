@@ -16,3 +16,9 @@
   - Built a basic CLI tool to input, store, and display student academic data.
 - **Library Catalog Utility**
   - Created a simple program to track and manage book inventory.
+  - 
+## Hobbies & Extracurriculars
+1. Competitive Coding
+   - [x] Master basic C syntax
+   - [ ] Learn dynamic data structures
+2. Chess
